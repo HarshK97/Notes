@@ -43,4 +43,8 @@ Id: Programming Paradigms
 
 ## 4. JavaScript in the Browser
 
+1. [[1.JavaScript Modules|JavaScript Modules]]
+2. [[2.DOM Manipulation in JavaScript|DOM Manipulation in JavaScript]]
+3. [[3.JavaScript Interactivity|JavaScript Interactivity]]
+4. [[4.JavaScript Selectors|JavaScript Selectors]]
 <!--toc:end-->
