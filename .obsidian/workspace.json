@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "e11b6002d7c6b55f",
+    "type": "split",
+    "children": [
+      {
+        "id": "4586eaf77c7ab9cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "891f604bae3669cc",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5d664c28172d519c",
+    "type": "split",
+    "children": [
+      {
+        "id": "ace2dd42f13a503b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a735523766d2b07d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e58c5829422e2184",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "6f7f486814bde522",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "e401e247ec3dd184",
+    "type": "split",
+    "children": [
+      {
+        "id": "013a30f747032056",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d34a9e4d2d94d71a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c8adcd1af00c0b2f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "a3618b1d5b74aa88",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f525ccfd9845754b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "891f604bae3669cc",
+  "lastOpenFiles": [
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/Programming Paradigms.md~",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/9.JavaScript-Rest-Operator.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/Programming Paradigms.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/0.Programming Paradigms.md~",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/0.Programming Paradigms.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/8.JavaScript-Spread-Operator.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/0.Index.md~",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/8.JavaScript-Spread-Operator.md~",
+    "Frontend/Course 2/2.The Building Blocks of a Program/0.Index.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/1.De-structuring arrays and objects.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/3.lmao.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/1741324938-CYRT.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.md~",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.md",
+    "Templates/Notes Template.md~",
+    "Templates/Notes Template.md",
+    "Templates",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/Test.md",
+    "Frontend/Course 2/2.The Building Blocks of a Program",
+    "Frontend/Course 2",
+    "Frontend/1.Introduction to Front End/Module3/9.Introduction to React.md",
+    "Frontend/1.Introduction to Front End/Module3/8.Single-Page Applications (SPAs) vs. Traditional Websites.md",
+    "Frontend/1.Introduction to Front End/Module3/7.Static vs. Dynamix Content.md",
+    "Frontend/1.Introduction to Front End/Module3/6.Bootstrap Components for a Restaurant Website.md",
+    "Frontend/1.Introduction to Front End/Module3/5.Bootstrap Grid System and Responsive Design.md",
+    "Frontend/1.Introduction to Front End/Module3/4.Bootstrap CSS Class Infixes and Modifiers.md",
+    "Frontend/1.Introduction to Front End/Module3/3.Simple Bootstrap Webpage.md",
+    "Frontend/1.Introduction to Front End/Module3/2.Responsive Web Design.md",
+    "Frontend/1.Introduction to Front End/Module3/11.Understanding Component Hierarchy in React.md",
+    "Frontend/1.Introduction to Front End/Module3/10.React Virtual DOM.md",
+    "Frontend/1.Introduction to Front End/Module3/1.Including CSS & JavaScript Libraries in HTML.md",
+    "Frontend/1.Introduction to Front End/Module3/0.Index.md",
+    "Frontend/1.Introduction to Front End/Module2/9.CSS Basics.md",
+    "Frontend/1.Introduction to Front End/Module2/8.Web Accessibility.md",
+    "Frontend/1.Introduction to Front End/Module3",
+    "Frontend/1.Introduction to Front End/Module2"
+  ]
+}
