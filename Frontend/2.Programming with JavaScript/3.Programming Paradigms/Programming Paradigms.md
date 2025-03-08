@@ -1,5 +1,5 @@
 ---
-Date: "2025-03-07"
+Date: "2025-03-08"
 Id: Programming Paradigms
 ---
 
@@ -39,4 +39,8 @@ Id: Programming Paradigms
 7. [[7.JavaScript-Data-Structures-with-Examples|JavaScript Data Structures with Examples]]
 8. [[8.JavaScript-Spread-Operator|JavaScript Spread Operator]]
 9. [[9.JavaScript-Rest-Operator|JavaScript Rest Operator]]
+10. [[10.Spread-and-Rest-Operators-in-JavaScript|Spread and Rest Operator in JavaScript]]
+
+## 4. JavaScript in the Browser
+
 <!--toc:end-->

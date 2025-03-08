@@ -11,10 +11,14 @@
             "id": "891f604bae3669cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/1.JavaScript Modules.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1.JavaScript Modules"
             }
           }
         ]
@@ -164,21 +168,23 @@
   },
   "active": "891f604bae3669cc",
   "lastOpenFiles": [
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/4.Template literals example.md~",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/10.Spread-and-Rest-Operators-in-JavaScript.md~",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/1.JavaScript Modules.md~",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/Programming Paradigms.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/1.JavaScript Modules.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/Programming Paradigms.md~",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/10.Spread-and-Rest-Operators-in-JavaScript.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/9.JavaScript-Rest-Operator.md",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/9.JavaScript-Rest-Operator.md~",
+    "spread-rest-operators-in-javascript.md",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/4.Template literals example.md~",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/8.JavaScript-Spread-Operator.md~",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/1.De-structuring arrays and objects.md",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/7.JavaScript-Data-Structures-with-Examples.md~",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/6.JavaScript-Data-Structures.md~",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/5.Template Literals in JavaScript.md~",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/3.Difference Between for-in and for-of loops.md~",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/2.For of loops and objects.md~",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/1.De-structuring arrays and objects.md~",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/2.For of loops and objects.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/Programming Paradigms.md~",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/9.JavaScript-Rest-Operator.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/Programming Paradigms.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/0.Programming Paradigms.md~",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/0.Programming Paradigms.md",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/8.JavaScript-Spread-Operator.md",
     "Frontend/Course 2/2.The Building Blocks of a Program/0.Index.md",
@@ -196,9 +202,6 @@
     "Frontend/1.Introduction to Front End/Module3/3.Simple Bootstrap Webpage.md",
     "Frontend/1.Introduction to Front End/Module3/2.Responsive Web Design.md",
     "Frontend/1.Introduction to Front End/Module3/11.Understanding Component Hierarchy in React.md",
-    "Frontend/1.Introduction to Front End/Module3/10.React Virtual DOM.md",
-    "Frontend/1.Introduction to Front End/Module3/1.Including CSS & JavaScript Libraries in HTML.md",
-    "Frontend/1.Introduction to Front End/Module3/0.Index.md",
-    "Frontend/1.Introduction to Front End/Module2/9.CSS Basics.md"
+    "Frontend/1.Introduction to Front End/Module3/10.React Virtual DOM.md"
   ]
 }
