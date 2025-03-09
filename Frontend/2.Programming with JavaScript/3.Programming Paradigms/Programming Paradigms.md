@@ -1,5 +1,5 @@
 ---
-Date: "2025-03-08"
+Date: "2025-03-09"
 Id: Programming Paradigms
 ---
 
@@ -47,4 +47,6 @@ Id: Programming Paradigms
 2. [[2.DOM Manipulation in JavaScript|DOM Manipulation in JavaScript]]
 3. [[3.JavaScript Interactivity|JavaScript Interactivity]]
 4. [[4.JavaScript Selectors|JavaScript Selectors]]
+5. [[5.JavaScript Event Listeners|JavaScript Event Listeners]]
+6. [[6.JSON Explained|JSON Explained]]
 <!--toc:end-->
