@@ -11,10 +11,14 @@
             "id": "891f604bae3669cc",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Frontend/2.Programming with JavaScript/4.Testing/4.Introduction to Jest Testing Framework.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "4.Introduction to Jest Testing Framework"
             }
           }
         ]
@@ -164,22 +168,30 @@
   },
   "active": "891f604bae3669cc",
   "lastOpenFiles": [
+    "Frontend/2.Programming with JavaScript/4.Testing/5.Setting Up Jest.md~",
+    "Frontend/2.Programming with JavaScript/4.Testing/Testing.md~",
+    "Frontend/2.Programming with JavaScript/4.Testing/6.Test Driven Development.md~",
+    "Frontend/2.Programming with JavaScript/4.Testing/6.Test-Driven Development.md",
+    "Frontend/2.Programming with JavaScript/4.Testing/6.Test Driven Development.md",
+    "Frontend/2.Programming with JavaScript/4.Testing/6.Test-Driven Development.md~",
+    "Frontend/2.Programming with JavaScript/4.Testing/5.Setting Up Jest.md",
+    "Frontend/2.Programming with JavaScript/addFive.test.js~",
+    "Frontend/2.Programming with JavaScript/addFive.test.js",
+    "Frontend/2.Programming with JavaScript/4.Testing/3.Software Testing.md",
+    "Frontend/2.Programming with JavaScript/4.Testing/2.JavaScript Testing with Jest and TDD.md",
+    "Frontend/2.Programming with JavaScript/4.Testing/1.Introduction to Node.js and npm.md",
+    "Frontend/2.Programming with JavaScript/4.Testing/3.Software Testing.md~",
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/Programming Paradigms.md~",
+    "Frontend/2.Programming with JavaScript/4.Testing/Testing.md",
+    "Frontend/2.Programming with JavaScript/4.Testing",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/6.JSON Explained.md~",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/4.JavaScript Selectors.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/Programming Paradigms.md~",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/5.JavaScript Event Listeners.md~",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/6.JSON Explained.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/4.JavaScript Selectors.md~",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/test.html~",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/test.html",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/5.JavaScript Event Listeners.md",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/3.JavaScript Interactivity.md",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/2.DOM Manipulation in JavaScript.md",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/1.JavaScript Modules.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/3.JavaScript Interactivity.md~",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/2.DOM Manipulation in JavaScript.md~",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/test.html",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/1.JavaScript Modules.md~",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/Programming Paradigms.md",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/10.Spread-and-Rest-Operators-in-JavaScript.md",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/9.JavaScript-Rest-Operator.md",
@@ -191,13 +203,6 @@
     "Frontend/Course 2/2.The Building Blocks of a Program/0.Index.md",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/3.lmao.md",
     "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/1741324938-CYRT.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.md",
-    "Templates/Notes Template.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/Test.md",
-    "Frontend/1.Introduction to Front End/Module3/9.Introduction to React.md",
-    "Frontend/1.Introduction to Front End/Module3/8.Single-Page Applications (SPAs) vs. Traditional Websites.md",
-    "Frontend/1.Introduction to Front End/Module3/7.Static vs. Dynamix Content.md",
-    "Frontend/1.Introduction to Front End/Module3/6.Bootstrap Components for a Restaurant Website.md",
-    "Frontend/1.Introduction to Front End/Module3/5.Bootstrap Grid System and Responsive Design.md"
+    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.md"
   ]
 }
