@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Frontend/3.Verison Control/3.Creating & Running Simple Bash Script.md",
-                "mode": "preview",
+                "file": "Frontend/3.Verison Control/Version Control.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.Creating & Running Simple Bash Script"
+              "title": "Version Control"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "e401e247ec3dd184",
@@ -168,9 +167,28 @@
   },
   "active": "891f604bae3669cc",
   "lastOpenFiles": [
-    "Frontend/3.Verison Control/2.Command Line/1.Command Line Basic.md~",
-    "Frontend/3.Verison Control/2.Command Line/1.Command Line Basic.md",
+    "Frontend/3.Verison Control/3.Working with Git/10.Git diff.md",
+    "Frontend/3.Verison Control/3.Working with Git/3.Tracking, Committing & Pushing Changes.md",
+    "Frontend/3.Verison Control/3.Working with Git/2.How Git Works?.md",
+    "Frontend/3.Verison Control/3.Working with Git/4.Git Branches.md",
+    "Frontend/3.Verison Control/3.Working with Git/5.Remote vs Local.md",
+    "Frontend/3.Verison Control/3.Working with Git/6.Git Push & Pull.md",
+    "Frontend/3.Verison Control/3.Working with Git/7.Resolving Merge Conflicts.md",
     "Frontend/3.Verison Control/Version Control.md~",
+    "Frontend/3.Verison Control/3.Working with Git/1.What is Git and Github?.md~",
+    "Frontend/3.Verison Control/3.Working with Git/2.How Git Works?.md~",
+    "Frontend/3.Verison Control/2.Command Line/6.Grep in Linux.md",
+    "Frontend/3.Verison Control/Version Control.md",
+    "Frontend/3.Verison Control/3.Working with Git/1.What is Git and Github?.md",
+    "Frontend/3.Verison Control/2.Command Line/6.Grep in Linux.md~",
+    "Frontend/3.Verison Control/3.Working with Git/1.What is Git and Github?",
+    "Frontend/3.Verison Control/2.Command Line/5. Linux Redirection.md",
+    "Frontend/3.Verison Control/2.Command Line/4.Pipes.md",
+    "Frontend/3.Verison Control/2.Command Line/3.Creating & Running Simple Bash Script.md",
+    "Frontend/3.Verison Control/2.Command Line/2.Introduction to Unix Commands.md",
+    "Frontend/3.Verison Control/2.Command Line/1.Command Line Basic.md",
+    "Frontend/3.Verison Control/github-git-cheat-sheet.pdf",
+    "Frontend/3.Verison Control/2.Command Line/1.Command Line Basic.md~",
     "Frontend/3.Verison Control/2.Command Line",
     "Frontend/3.Verison Control/1.Introduction to Version Control/4.How Developers Use Version Control.md",
     "Frontend/3.Verison Control/1.Introduction to Version Control/4.How Developers Use Version Control.md~",
@@ -178,31 +196,12 @@
     "Frontend/3.Verison Control/1.Introduction to Version Control/2.Centralized vs Distributed Version Control System.md",
     "Frontend/3.Verison Control/1.Introduction to Version Control/1.What is Version Control?.md",
     "Frontend/2.Programming with JavaScript/4.Testing/5.Setting Up Jest.md~",
-    "Frontend/2.Programming with JavaScript/4.Testing/Testing.md~",
-    "Frontend/2.Programming with JavaScript/4.Testing/6.Test Driven Development.md~",
     "Frontend/2.Programming with JavaScript/4.Testing/6.Test-Driven Development.md",
     "Frontend/2.Programming with JavaScript/4.Testing/6.Test Driven Development.md",
-    "Frontend/2.Programming with JavaScript/4.Testing/6.Test-Driven Development.md~",
     "Frontend/2.Programming with JavaScript/4.Testing/5.Setting Up Jest.md",
-    "Frontend/2.Programming with JavaScript/addFive.test.js~",
-    "Frontend/2.Programming with JavaScript/addFive.test.js",
     "Frontend/2.Programming with JavaScript/4.Testing/3.Software Testing.md",
     "Frontend/2.Programming with JavaScript/4.Testing/2.JavaScript Testing with Jest and TDD.md",
     "Frontend/2.Programming with JavaScript/4.Testing/1.Introduction to Node.js and npm.md",
-    "Frontend/2.Programming with JavaScript/4.Testing/3.Software Testing.md~",
-    "Frontend/2.Programming with JavaScript/4.Testing/Testing.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/4.JavaScript Selectors.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/6.JSON Explained.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/5.JavaScript Event Listeners.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/3.JavaScript Interactivity.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/2.DOM Manipulation in JavaScript.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/4.JavaScript in the Browser/1.JavaScript Modules.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/Programming Paradigms.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/10.Spread-and-Rest-Operators-in-JavaScript.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/9.JavaScript-Rest-Operator.md",
-    "spread-rest-operators-in-javascript.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/1.De-structuring arrays and objects.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/3.Advanced JavaScript Features/2.For of loops and objects.md",
-    "Frontend/2.Programming with JavaScript/3.Programming Paradigms/0.Programming Paradigms.md"
+    "Frontend/2.Programming with JavaScript/4.Testing/Testing.md"
   ]
 }

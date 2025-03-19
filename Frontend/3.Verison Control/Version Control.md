@@ -1,5 +1,5 @@
 ---
-Date: "2025-03-14"
+Date: "2025-03-19"
 Id: Version Control
 ---
 
@@ -21,3 +21,18 @@ Id: Version Control
 4. [[4.Pipes|Pipes]]
 5. [[5. Linux Redirection|Linux Redirection]]
 6. [[6.Grep in Linux|Grep in Linux]]
+
+## Module 3 Working with Git
+
+1. [[1.What is Git and Github?|What is Git and Github?]]
+2. [[2.How Git Works?|How Git Works?]]
+3. [[3.Tracking, Committing & Pushing Changes|Tracking, Committing & Pushing Changes]]
+4. [[4.Git Branches|Git Branches]]
+5. [[5.Remote vs Local|Remote vs Local Repositories]]
+6. [[6.Git Push & Pull|Git Push & Pull]]
+7. [[7.Resolving Merge Conflicts|Resolving Merge Conflicts]]
+8. [[8.Feature Branching|Feature Branching]]
+9. [[9.Git Head and Commit References|Git Head and Commit References]]
+10. [[10.Git diff|Git Diff]]
+11. [[11.Git blame|Git Blame]]
+12. [[12.Forking|Forking]]
